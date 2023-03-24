@@ -37,6 +37,9 @@ pip install -r requirements.txt
 ![image](https://user-images.githubusercontent.com/13046955/227497525-aeab8179-8ffc-4e06-8b55-1c0b213b76d3.png)
 
 测试效果如下:
+![image](https://user-images.githubusercontent.com/13046955/227503961-73a6cc47-89f9-461b-ad2e-8adc018ad489.png)
+
+群聊效果如下：
 
 ![image](https://user-images.githubusercontent.com/13046955/227497925-d81357c5-5a03-4e0d-a554-4ac8aab57b1e.png)
 
