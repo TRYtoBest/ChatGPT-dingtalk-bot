@@ -11,7 +11,7 @@ python 版本 3.9 作者未测试其他版本
 进入我的后台->应用开发—>企业内部开发->机器人->创建应用 使用旧版
 
 ![image](https://user-images.githubusercontent.com/13046955/227491759-5224a868-bb68-4124-96cd-eedec1dc7bb8.png)
-在开发管理设置白名单IP 和服务器出口IP ： http://IP:18888/webhook/event   （机器人被@以后会转发至该服务器）
+在开发管理设置白名单IP 和消息接收地址： http://IP:18888/webhook/event   （机器人被@以后会转发至该服务器）
 ![image](https://user-images.githubusercontent.com/13046955/227498806-daad27b8-f5a0-490e-ad75-158b27ac7f89.png)
 在权限管理把权限都申请
 ![image](https://user-images.githubusercontent.com/13046955/227494155-9d62ca37-7ab7-4db1-b7aa-e1cf1355da81.png)
