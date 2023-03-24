@@ -47,6 +47,10 @@ pip install -r requirements.txt
 
 ![image](https://user-images.githubusercontent.com/13046955/227497925-d81357c5-5a03-4e0d-a554-4ac8aab57b1e.png)
 
+
+生成AI图片效果如下：
+![image](https://user-images.githubusercontent.com/13046955/227505080-47e2df90-c3bb-449e-9011-75e256c636a1.png)
+
 有问题记得反馈！
 
 
