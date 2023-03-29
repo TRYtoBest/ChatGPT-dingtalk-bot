@@ -2,7 +2,7 @@
 ChatGPT接入钉钉群聊机器人
 python 版本 3.9 作者未测试其他版本
 会话数限制在18
-
+chatpgt 钉钉
 
 __准备：钉钉群，一台有公网IP的服务器（把webhook.py脚本部署在这台服务器上），chatgpt账号并且获取apikey__
 
