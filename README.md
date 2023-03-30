@@ -4,7 +4,7 @@ python 版本 3.9 作者未测试其他版本
 会话数限制在18
 chatpgt 钉钉
 
-__准备：翻墙软件（有访问chatgpt节点，长期打开。我的推荐链接：https://www.invitevp.com/#/register?code=7XniQ56k）钉钉群，一台有公网IP的服务器（把webhook.py脚本部署在这台服务器上），chatgpt账号并且获取apikey__
+__准备：翻墙软件（有访问chatgpt节点，长期打开。我的推荐链接：https://www.invitevp.com/#/register?code=7XniQ56k ）钉钉群，一台有公网IP的服务器（把webhook.py脚本部署在这台服务器上），chatgpt账号并且获取apikey__
 
 ## 第一步：在钉钉开放平台https://open.dingtalk.com/   设置
 
